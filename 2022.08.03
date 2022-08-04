@@ -16,7 +16,7 @@
    
 
     var age = prompt("How old are you?");
-    document.getElementById("dog").textContent = age 
+    document.getElementById("dig").textContent = age 
     var element = document.createElement('p');
     element.textContent = age;
     document.body.appendChild(element);
